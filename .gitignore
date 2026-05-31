@@ -1,0 +1,28 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+## .NET
+*.nupkg
+*.snupkg
+project.lock.json
+artifacts/
+
+## OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
