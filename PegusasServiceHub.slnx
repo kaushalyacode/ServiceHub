@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="PegusasServiceHub/PegusasServiceHub.csproj" />
+  <Project Path="ServiceHub.Domain/ServiceHub.Domain.csproj" />
 </Solution>
